@@ -1,7 +1,7 @@
 module.exports = {
     bot: {
         tokens: [
-          "YOUR_BOT_TOKEN_HERE",              // Main bot token - Replace with your actual token
+          "MTQyNDA5MzAxMDg0MDI1NjYxMg.G1uekW.eQ8WkptiQLsbe7-mM1v6doXjU8LzXI0a3OJEA8",              // Main bot token - Replace with your actual token
         //  "YOUR_SECOND_BOT_TOKEN_HERE",      // 2 bot token - Uncomment and replace to use
         //  "YOUR_THIRD_BOT_TOKEN_HERE",       // 3 bot token - Uncomment and replace to use
         //  "YOUR_FOURTH_BOT_TOKEN_HERE",      // 4 bot token - Uncomment and replace to use
@@ -11,15 +11,15 @@ module.exports = {
         defaultLanguage: 'ar', // ar | en لغة البوت
         
         activity: {
-            name: 'Wick Studio', // رسالة حالة البوت
-            type: 'WATCHING', // PLAYING, STREAMING, LISTENING, WATCHING, COMPETING
+            name: 'By @_n2e.', // رسالة حالة البوت
+            type: 'PLAYING', // PLAYING, STREAMING, LISTENING, WATCHING, COMPETING
             status: 'dnd' // online, idle, dnd, invisible
         }
     },
     server: {
-        guildId: 'ID',         // ايدي السيرفر
-        broadcastRoleId: 'ID', // ايدي الرول اللي يستخدم عليها البوت
-        reportChannelId: 'ID' // ايدي الروم اللي يرسل فيه البوت التقارير
+        guildId: '1368957761383039088',         // ايدي السيرفر
+        broadcastRoleId: '1418491713491570719', // ايدي الرول اللي يستخدم عليها البوت
+        reportChannelId: '1422354691290955816' // ايدي الروم اللي يرسل فيه البوت التقارير
     },
     broadcast: {
         cooldownTime: 1000, // لا تلعب فيها
@@ -34,4 +34,5 @@ module.exports = {
         error: '#ED4245',      // Red (used for errors)
         neutral: '#5D5D5D'     // Gray (used for neutral messages)
     }
+
 };
