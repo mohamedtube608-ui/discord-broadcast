@@ -1,7 +1,7 @@
 module.exports = {
     bot: {
         tokens: [
-          "MTQyNDA5MzAxMDg0MDI1NjYxMg.G1uekW.eQ8WkptiQLsbe7-mM1v6doXjU8LzXI0a3OJEA8",              // Main bot token - Replace with your actual token
+          "MTQyNDc2NDAxOTQ0MDYxNTQ2NA.Gpx_VD.iWn-JLY86HeaTaf1NI0U5kZzhT-6cVgIw0NVDU",              // Main bot token - Replace with your actual token
         //  "YOUR_SECOND_BOT_TOKEN_HERE",      // 2 bot token - Uncomment and replace to use
         //  "YOUR_THIRD_BOT_TOKEN_HERE",       // 3 bot token - Uncomment and replace to use
         //  "YOUR_FOURTH_BOT_TOKEN_HERE",      // 4 bot token - Uncomment and replace to use
@@ -36,3 +36,4 @@ module.exports = {
     }
 
 };
+
